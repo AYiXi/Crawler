@@ -6,17 +6,17 @@
 
 
 
-## 使用CrawlSpider爬取腾讯招聘网站的信息
+## 使用CrawlSpider爬取[腾讯招聘网站](https://github.com/AYiXi/Crawl_practice/tree/master/tencent/tencent/spiders)的信息
 > {'职位名称': '30620-腾讯社交广告流量生态平台合作运营经理（微信广告 深圳）', '工作地点': '深圳', '职位类别': '产品/项目类', '招聘人数': '1人'}
 
 > {'职位名称': 'AQ-安全责任经理（北京）', '工作地点': '北京', '职位类别': '职能类', '招聘人数': '1人'}
 
-## 使用selenium库抓取拉勾网职位
+## 使用selenium库抓取[拉勾网](https://github.com/AYiXi/Crawl_practice/blob/master/login/login/spiders/lagouwang.py)职位
 > {'position_name': 'python开发工程师', 'salary': '20k-30k', 'city': '厦门', 'work_years': '经验3-5年', 'education': '本科及以上'}
 
 > {'position_name': 'python开发工程师', 'salary': '12k-18k', 'city': '北京', 'work_years': '经验1-3年', 'education': '大专及以上'}
 
-## 爬取某个人的所有Twitter
+## 爬取某个人的[所有Twitter](https://github.com/AYiXi/Crawl_practice/tree/master/twitter_crawl/twitter_crawl/spiders)
 > {'content': ['Highly respected Senator Richard Burr, head of Senate...'],
  'name': 'Donald J. Trump',
  'replay_retweet_like': '29,115/34,973/146,259',
