@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ScrapyRedisTest/scrapy-redis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scrapy_prectice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scrapy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scrapy_elasticsearch/Scrapy_prectice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scrapy_elasticsearch/scrapy" vcs="Git" />
+  </component>
+</project>
