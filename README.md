@@ -1,5 +1,5 @@
 
-## 基于scrapy-redis的分布式爬虫爬取京东、亚马逊、当当网的图书信息
+## 基于scrapy-redis的分布式爬虫爬取[京东、亚马逊、当当网](https://github.com/AYiXi/Crawl_practice/tree/master/distributed_crawl/distributed_crawl/spiders)的图书信息
 > {'b_cate': '艺术', 's_cate': '篆刻', 'book_name': '包邮现货 中国书法简史 王镛 美术书法专业本专科 高师高专教材 高等教育出版社 两种封面随机发', 'book_author': [' 王镛 '], 'book_press': '高等教育出版社', 'book_publish_date': '2004-02','book_price':35.80}
 
 > {'b_cate': '传记', 's_cate': '自传', 'book_name': '心若菩提（增订本）', 'book_author': [' 曹德旺 '], 'book_press': '人民出版社', 'book_publish_date': '2017-04', 'book_price':56.70}
