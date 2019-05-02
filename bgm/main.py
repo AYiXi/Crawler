@@ -13,4 +13,4 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 调用execute函数执行scrapy命令，相当于在控制台cmd输入该命令
 可以传递一个数组参数进来
 """
-execute(["scrapy", "crawl", "bgm"])
+execute(["scrapy", "crawl", "re0"])

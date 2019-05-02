@@ -24,31 +24,18 @@ class TrumpSpider(scrapy.Spider):
         'x-twitter-active-user': 'yes',
     }
 
-
     # 第一个网址开始的位置
-    position = 'thGAVUV0VFVBaEgL-Vtcmjwx4WgoCohejFucUeEjUAFQAlAAA='
+    position = 'thGAVUV0VFVBaEwLWR9qee0h4WgIC2hfXyi-MeEhjUAhJjwusAAAH0P4BiTdLxqfwAAAAoDvmMpcfUUAAO_WpjI5bAAA4-y2YsltAAD1I8yuGWkAEOrv_llJdABg5LwazIVtAKDoRnNgcX0AEOV86l3xfQAA75jKVUlNABD2MXy6hWwAAOqL4h8VdwAA62mYX-V9AADnEVX2oW4AAPON86tZbAAg8XKRHnFsAADeS7yMHW4AAN8uUahJaQAg7kTngwlqACDu42eD7WwAEOu8AufBeAAA75jKWKlQAADm0WrfYXoAAOk7hduZeAAA6G_j2c1uAADvmMpjoVYAAPUj2IxhdAAQ70SqkrF0AADvmMpF_VAAAOtCli4dbgAA9SPJ-xFrACDjhvVLsW4AENt9f9uxdQAQ9SPO6rltAADenbuZbXkAAOtClj7tfgAA4maN5gl9AADtTt4wbWoAEOtCllZdfgAw5crOQNl9ABDsjFdRGW0AAVABUAFQAlAAA='
 
     # 请求网址
-    home_url = 'https://twitter.com/i/search/timeline?f=tweets&vertical=default&q=from%3ArealDonaldTrump%20since%3A2006-03-21%20until%3A2019-02-27&src=typd&include_available_features=1&include_entities=1&max_position={}&oldest_unread_id=0&reset_error_state=false'
+    # home_url = 'https://twitter.com/i/search/timeline?f=tweets&vertical=default&q=from%3ArealDonaldTrump%20since%3A2006-03-21%20until%3A2019-02-27&src=typd&include_available_features=1&include_entities=1&max_position={}&oldest_unread_id=0&reset_error_state=false'
+    home_url = 'https://twitter.com/i/search/timeline?f=tweets&vertical=default&q=from%{}%20since%3A2006-03-21%20until%3A2019-02-27&src=typd&include_available_features=1&include_entities=1&max_position={}&oldest_unread_id=0&reset_error_state=false'
 
-    # data = {
-    #     'f': 'tweets',
-    #     'vertical': 'default',
-    #     'q': 'from:realDonaldTrump since:2006-03-21 until:2019-02-27',
-    #     'src': 'typd',
-    #     'include_available_features': '1',
-    #     'include_entities': '1',
-    #     'include_new_items_bar': 'true',
-    #     'interval': '30000',
-    #     'latent_count': '0',
-    #     'max_position': position,
-    #     'oldest_unread_id': '0',
-    # }
-
-    detail_url = 'https://twitter.com/i/realDonaldTrump/conversation/1096926633708134406?include_available_features=1&include_entities=1&max_position={}&reset_error_state=false'
+    #
+    comment_url = 'https://twitter.com/i/realDonaldTrump/conversation/1115057524770844672?include_available_features=1&include_entities=1&max_position={}&reset_error_state=false'
 
     def start_requests(self):
-        yield scrapy.Request(self.home_url, headers=self.headers, callback=self.parse_home)
+        yield scrapy.Request(self.comment_url, headers=self.headers, callback=self.parse_detail)
 
     # 所有twitter列表
     def parse_home(self, response):
@@ -85,7 +72,6 @@ class TrumpSpider(scrapy.Spider):
         if has_more_items:
             yield scrapy.Request(url=self.home_url.format(position), headers=self.headers, callback=self.parse_home)
 
-
     # 每条twitter的详情页
     def parse_detail(self, response):
         json_text = json.loads(response.text)
@@ -93,19 +79,30 @@ class TrumpSpider(scrapy.Spider):
         items_html = json_text['items_html']
         has_more_items = json_text['has_more_items']
 
-        # print(response.meta)
-
-        tweet_url = response.meta['url']
-
         text = Selector(text=items_html)
 
         res = text.xpath('//li[contains(@class, "js-stream-item")]')
         for r in res:
+            try:
+                replay = re.findall('>(\d.* replies)', r.get())[0]  # '123,123'
+            except:
+                replay = '0'
+            try:
+                retweet = re.findall('>(\d.* retweets)', r.get())[0]  # '123'
+            except:
+                retweet = '0'
+            try:
+                like = re.findall('>(\d.* likes)', r.get())[0]  # '43,322'
+            except:
+                like = '0'
+            replay_retweet_like = '/'.join([t.split(' ')[0] for t in [replay, retweet, like]])  # '123,444/4,123/123,43'
+
             username = r.xpath('.//span[@class="FullNameGroup"]/strong/text()').get()
             try:
                 time = re.findall('js-tooltip" title="(.*)" data-conversation-id', r.get())[0]
             except:
                 time = None
+
             try:
                 content = re.findall('>(.*)</p>', r.get())[0]
             except:
@@ -121,13 +118,13 @@ class TrumpSpider(scrapy.Spider):
                 time=time,
                 content=content,
                 user_url=user_url,
-                tweet_url=tweet_url
+                replay_retweet_like=replay_retweet_like
             )
 
             yield item
 
-        # if has_more_items == True:
-        yield scrapy.Request(self.detail_url.format(position),
-                             headers=self.headers,
-                             callback=self.parse_detail,
-                             meta={'url': tweet_url})
+        if has_more_items:
+            yield scrapy.Request(self.comment_url.format(position),
+                                 headers=self.headers,
+                                 callback=self.parse_detail,
+                                 )

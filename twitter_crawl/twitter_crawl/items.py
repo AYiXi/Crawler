@@ -38,3 +38,4 @@ class TwitterCommentlItem(scrapy.Item):
     fans = scrapy.Field()
     user_url = scrapy.Field()
     tweet_url = scrapy.Field()
+    replay_retweet_like = scrapy.Field()
