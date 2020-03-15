@@ -1,0 +1,300 @@
+tweet_id,account_name,user_id,timestamp,text,links,repiles,retweets,favorites
+1237764507813982210,SI Softwares,1236352422223720450,8:37 AM - 11 Mar 2020,Null,https://sisoftwares.wixsite.com/si-software/python,Null,0,0
+1237757813834670084,Nishkarsh Raj,1143353752792920065,8:10 AM - 11 Mar 2020,Day 62 ,https://github.com/NishkarshRaj/100DaysofMLCode,Null,13,9
+1237757182143315971,Pythonspot,3179754226,8:08 AM - 11 Mar 2020,Which Python IDE should you choose? ,https://dev.to/bluepaperbirds/which-python-ide-1712,Null,1,1
+1237755168441143298,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,8:00 AM - 11 Mar 2020,ListMethod clear()  remove all the elements from a list  ,,Null,1,1
+1237753446134136832,Python Programming,752706976564453376,7:53 AM - 11 Mar 2020,Django Pagination Complete Example  ☞ ,http://bit.ly/2PqY5VI,Null,0,0
+1237753440236945408,Python is life,1120693467477188608,7:53 AM - 11 Mar 2020,Python 101: Unlock Programming Skills  ☞ ,https://ift.tt/2MFsgJ9,Null,0,0
+1237749855046504448,Renan Moura,1156744554663600128,7:38 AM - 11 Mar 2020,isupper(): checking upper case only in a string in ,https://renanmf.com/isupper-checking-upper-case-only-string-python/,Null,2,5
+1237746953259188224,GATE Staffing, LLC.,38670306,7:27 AM - 11 Mar 2020,NEXT MONDAY  3/16! “IACS Intro to Python Programming Workshop hosted by SB University" ,http://bit.ly/38A2uMY,Null,0,2
+1237741571015090177,Agira Technologies,3041513226,7:06 AM - 11 Mar 2020,What makes Django a HERO? Quick coding  new features? If you ask us what's more. Take a look at this blog for more details. ,https://buff.ly/2MIjObZ,Null,0,0
+1237725326479933442,ThePHPFeed,1233758868108447746,6:01 AM - 11 Mar 2020,Python 3 Course of College and University  ,https://www.killerphp.com/articles/python-3-course-of-college-and-university/,Null,4,3
+1237724970823884805,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,6:00 AM - 11 Mar 2020,Unpack a list    ,,Null,1,4
+1237724562571161602,Illusjason,801313940,5:58 AM - 11 Mar 2020,I have been trying to learn python and pygame this is what I have so far  Rock paper scissors  Graphics by me also that annoying sound which could possibly be music also made by me  ,https://www.instagram.com/p/B9mBxTmgK_Z/?igshid=u3wwx29a548i,Null,0,0
+1237698569483751425,Zooba,7202792,4:15 AM - 11 Mar 2020,Null,,Null,13,32
+1237692085039435776,unreliableNarrat0r,1190783098293800960,3:49 AM - 11 Mar 2020,me: The course was moved to ,,Null,0,1
+1237679672974102528,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,3:00 AM - 11 Mar 2020,Machine Learning in Emoji    ,,Null,0,3
+1237676979983241216,Deepanshu Sarawagi,124657422,2:49 AM - 11 Mar 2020,Day 6/301 Completed learning basis of SQLite. Have basic understanding of how INNER JOIN works and how to query data. Course has progressed to show us how to use sqlite3 in python program. ,https://github.com/DeepanshuSarawagi/python/blob/master/Databases/contacts.py,Null,9,3
+1237650758092414976,Python64,1231677299491319809,1:05 AM - 11 Mar 2020,Great Python Course ,https://gumroad.com/l/dcsp,Null,14,1
+1237624247750742016,Jan Giacomelli,1222428668011655170,11:19 PM - 10 Mar 2020,Exceptional Code: Using try-except in ,https://link.medium.com/7FUSMRreL4,Null,8,6
+1237615291741294592,Sylvie,1230972916973522944,10:44 PM - 10 Mar 2020,Day 18: Today I did an assessment test for nested dictionaries and lists. I got through it pretty well  had to make a few tweaks here and there but overall not bad! I also started looking into Maltego to see if I can automate a few processes for work. ,,Null,5,10
+1237605344915755010,ankit.py mishra.js,2198179640,10:04 PM - 10 Mar 2020,That's why i have migrated to ,,Null,7,6
+1237596644255731712,Fullstack Developer,931055758971752448,9:30 PM - 10 Mar 2020,Web scraping for Machine Learning ,https://www.codementor.io/manishanker/web-scraping-for-machine-learning-14es5c4f68,Null,4,13
+1237506043300569088,Raja Murugan,1234838528040660992,3:30 PM - 10 Mar 2020,Null,,Null,0,0
+1237451909776187392,✨ Trey Hunner 🐍,2326251343,11:55 AM - 10 Mar 2020,Wish your dataclasses were iterable just like namedtuples? You need a __iter__ method! ,,Null,6,54
+1237449770106421248,Jeff Ali,2604886657,11:46 AM - 10 Mar 2020,Day 54/100 : One more productive day,,Null,3,14
+1237415804855103490,etorreborre,14622451,9:31 AM - 10 Mar 2020,Working for a bit with ,,Null,4,21
+1237359281898479618,Dawid,69544990,5:46 AM - 10 Mar 2020,History of programming languages :O  ,,Null,109,199
+1237203526142562304,Steven Jordan🐍👨🏻‍💻,759386987866578944,7:28 PM - 9 Mar 2020,R1D5 ,,Null,11,16
+1237151249419702274,Davor Jordacevic,1315363538,4:00 PM - 9 Mar 2020,Scikit-Learn Algorithm Cheatsheets  Via ,,Null,8,18
+1237117902488305664,Daily Python Tip,827002120373207040,1:47 PM - 9 Mar 2020,>>> numbers = ['9'  '44'  '8'  '222'] >>> max(numbers) '9' >>> max(numbers  key=int) '222' ,,Null,21,119
+1237038028540919815,Bokeh Visualization Library,521448718,8:30 AM - 9 Mar 2020,Bokeh 2.0 is released! Read all about it on our new ,https://medium.com/@bokeh/announcing-bokeh-2-0-647042d0d977,Null,96,224
+1236969862947377153,TestDriven.io,937888350974787584,3:59 AM - 9 Mar 2020,Django vs. Flask in 2019: Which Framework to Choose  ,https://testdriven.io/blog/django-vs-flask/#.XmYglcZfi5Q.twitter,Null,17,52
+1236664057706528769,WWCodePython,1097627506633592833,7:44 AM - 8 Mar 2020,Your strength  determination  care and selfless spirit!  Happy International Women Day!   ,,Null,35,86
+1236389147302080512,Ozgur Yilmaz,2409518119,12:31 PM - 7 Mar 2020,Check out this ,https://realpython.com/numpy-scipy-pandas-correlation-python/,Null,17,36
+1236346744562016256,Ishaan Sheikh,812596346876293120,9:43 AM - 7 Mar 2020,How to Reverse a list in ,,Null,5,4
+1236289678858428416,Daniel Müller-Komorowska,869980503683813390,5:56 AM - 7 Mar 2020,I finally built the master branch of ,,Null,2,7
+1236142776024215552,Christopher Doyle,73039079,8:12 PM - 6 Mar 2020,The History of Top Programming Languages from 1965 to 2019! ,,Null,350,509
+1236141255123324934,Python,737913022006579200,8:06 PM - 6 Mar 2020,The Ultimate Guide to Python Turtle ☞ ,https://codequs.com/p/BJyP8ceSI,Null,6,9
+1236042016133349376,Casual Accountant,1136538442505117698,1:32 PM - 6 Mar 2020,Day 30 of ,,Null,16,21
+1236039617222230017,Bernard Tyers,15747530,1:23 PM - 6 Mar 2020,Please RT!  Are you a Python user? Do you use pip  the package management tool?  Do you want to help improve the usability of pip?  If so   sign-up to the pip UX studies!  All the details are here:  ,https://bit.ly/pip-ux-studies,Null,190,152
+1235820687828193280,SADLM,781104993512267776,10:53 PM - 5 Mar 2020,How it feels when my ,,Null,2,13
+1237505918042071040,The Programmers,1191070571020210177,3:29 PM - 10 Mar 2020,Null,,Null,9,7
+1237449790427783168,Jeff Ali,2604886657,11:46 AM - 10 Mar 2020,Continued Day 54/100..... ,,Null,3,8
+1237441688366469120,A State Of Data,1176842422531346432,11:14 AM - 10 Mar 2020,Null,,Null,1,2
+1237433251498618880,Rohit Singh,945193638597861377,10:40 AM - 10 Mar 2020,Null,,Null,2,9
+1237423974818160642,Gal Giacomelli,410955347,10:04 AM - 10 Mar 2020,Reproducing Japanese Anime Styles With CartoonGAN ,https://buff.ly/2Q47Vxf,Null,21,29
+1237394261101801473,Ned Deily,17328600,8:05 AM - 10 Mar 2020,Null,https://www.python.org/downloads/release/python-377/,Null,18,41
+1237389306060091395,Ahmad Mustafa Anis,1031198302279290880,7:46 AM - 10 Mar 2020,Successfully cleared the Python Exam(MTA 98-381) by ,,Null,0,10
+1237182635358781440,✨ Trey Hunner 🐍,2326251343,6:05 PM - 9 Mar 2020,The default string delimiter for splitting in ,,Null,18,88
+1237127725003014144,Danny Thompson,1085477171055996928,2:26 PM - 9 Mar 2020,Messages like this is what I live for! Last year I helped 44 people land ,,Null,18,19
+1237063224782196737,IxiaRomania,1171378348704108547,10:10 AM - 9 Mar 2020,Name one thing you can't do in ,,Null,0,1
+1237037287575347205,Nikolay Ivanov,464159561,8:27 AM - 9 Mar 2020,Check out this ,https://realpython.com/python-virtual-environments-a-primer/,Null,3,24
+1236920457166639105,Avishek Patra,3732965112,12:43 AM - 9 Mar 2020,Today is the festival of colors in India. So ,,Null,12,9
+1236881213744279552,Dr. Nicholas J. Kinar,1018620435020173312,10:07 PM - 8 Mar 2020,Hydrology Paper of the Day ,https://twitter.com/DavidGLitwin/status/1226880468001284098,Null,8,14
+1236874728679198721,koyamanol,1198581851369041921,9:41 PM - 8 Mar 2020,Day 49 of ,,Null,6,11
+1236694572387962881,ola_charles,460560697,9:45 AM - 8 Mar 2020,Friends  the night is almost here again. We've shared the vision and now we're ready to run with it.  We will be exploring ,,Null,10,28
+1236350503249944578,Lindsey Clark,879087454418030592,9:58 AM - 7 Mar 2020,We are getting back to the tavern to celebrate new commands! ,,Null,3,6
+1236326566323314688,Alexandre de Siqueira,1223346083914371072,8:23 AM - 7 Mar 2020,Check the best ,https://github.com/inducer/pudb,Null,6,5
+1236086719927250953,🐙VARREN.KHAN,758873121851965440,4:30 PM - 6 Mar 2020,Hey  if you are in need of source control Check Out GitKraken!! ,https://ift.tt/2X5p1jS,Null,13,6
+1235631793182666752,Ivy Barley,104582823,10:22 AM - 5 Mar 2020,Null,,Null,7,87
+1235537427940458497,TestDriven.io,937888350974787584,4:07 AM - 5 Mar 2020,Deploying a Flask and Vue App to Heroku with Docker and Gitlab CI   ,https://testdriven.io/blog/deploying-flask-to-heroku-with-docker-and-gitlab/#.XmDql1KTBiE.twitter,Null,24,58
+1237439068671217664,Mike Driscoll,19067150,11:03 AM - 10 Mar 2020,I wrote a new article about ,https://www.blog.pythonlibrary.org/2020/03/10/python-101-learning-about-lists/,Null,2,14
+1237428969105952768,Florian Wilhelm 🇪🇺,14702678,10:23 AM - 10 Mar 2020,Best practices on how to package ,https://pythonspeed.com/docker/,Null,2,17
+1237377682507272196,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,7:00 AM - 10 Mar 2020,pandas_merge with inner join    ,,Null,2,5
+1237211159427600385,Jack,1034482903294431232,7:58 PM - 9 Mar 2020,Check out this ,https://realpython.com/defining-your-own-python-function/,Null,3,19
+1237058587018461184,bennyBoy_JP,1727994228,9:52 AM - 9 Mar 2020,Null,,Null,3,7
+1237058516504006656,Aleksy Herominski,957652583690260486,9:51 AM - 9 Mar 2020,A white and red coloured ,,Null,0,2
+1236998267399032834,Vuokko Heikinheimo,742264013296406528,5:52 AM - 9 Mar 2020,Stay tuned for updated materials about ,https://twitter.com/tenkahen/status/1236995097805422592,Null,14,42
+1236909597300064257,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,12:00 AM - 9 Mar 2020,sample selection    ,,Null,1,3
+1236866020213534721,Ronsoak 🏳️‍🌈🇳🇿,1120948982509793280,9:06 PM - 8 Mar 2020,Pro tip. The ,,Null,6,42
+1236849442621403136,Gal Giacomelli,410955347,8:01 PM - 8 Mar 2020,Comparing Neural Network Architectures    ,https://buff.ly/2ItiFAT,Null,19,21
+1236794372789862402,J.L. García Pacheco,3307198167,4:22 PM - 8 Mar 2020,Check out this ,https://realpython.com/python-testing/,Null,13,37
+1236502030740606976,Steven Jordan🐍👨🏻‍💻,759386987866578944,8:00 PM - 7 Mar 2020,R1D3 ,,Null,10,10
+1236426828287541249,Diallo Lamarana,4038323429,3:01 PM - 7 Mar 2020,Random walk with ,,Null,6,10
+1236352524556394498,Python is life,1120693467477188608,10:06 AM - 7 Mar 2020,Scrapy with Python  ☞ ,https://ift.tt/2IQ5Wt1,Null,2,3
+1236350918632902661,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,10:00 AM - 7 Mar 2020,pandas_Series vs 1-column DataFrame    ,,Null,2,3
+1236326630605221888,bennyBoy_JP,1727994228,8:23 AM - 7 Mar 2020,Null,,Null,12,19
+1236305615938560000,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,7:00 AM - 7 Mar 2020,Display the current date    ,,Null,3,2
+1236224705939587072,P h i l s,1212139641110876160,1:38 AM - 7 Mar 2020,Day 3 on Python programming Learnt about the 'if' and  'else' statement The 'if' statement only works if the condition is true ,,Null,20,19
+1235907124909273088,StormDevelopers,1091413073406148609,4:36 AM - 6 Mar 2020,Becoming a ,https://stormdevelopers.com/forums/topic/65-becoming-a-python-developer/,Null,15,15
+1235531751054667777,sammywemmy,1093585131351101441,3:44 AM - 5 Mar 2020,inspired by ,,Null,9,40
+1237235345751601152,hülya,1570838677,9:34 PM - 9 Mar 2020,Day 97 of ,,Null,6,38
+1237169079854804992,Samuel Williams,55426182,5:11 PM - 9 Mar 2020,Day 12 of ,,Null,2,5
+1237067145735024643,Nico,1100845289093693441,10:26 AM - 9 Mar 2020,Graph showing how the charge change  of my protein  when increasing the pH. Using ,,Null,2,7
+1237045740708429824,David Praise Chukwuma Kalu,1145720908994220033,9:01 AM - 9 Mar 2020,Secrets of Using Sobel Operator   ,http://datahacker.rs/sobel-operator/,Null,2,9
+1236995099424370689,Henrikki Tenkanen,1524365196,5:39 AM - 9 Mar 2020,Part 1: New to Python? In this part will teach you the fundamental concepts of ,,Null,4,11
+1236645363798376448,Fullstack Developer,931055758971752448,6:30 AM - 8 Mar 2020,Retrieve User Information in Spring Security ,https://www.codementor.io/sravancynixit/retrieve-user-information-in-spring-security-14arwu8ub0,Null,18,17
+1236356780239646721,Chris Strange,988508801371328513,10:23 AM - 7 Mar 2020,Null,https://blog.miguelgrinberg.com/post/micropython-and-the-internet-of-things-part-i-welcome,Null,6,6
+1236326781864427520,Jimmy Bond,2372347208,8:24 AM - 7 Mar 2020,Top ,,Null,7,5
+1236064123483389953,Ali Younes,411738365,3:00 PM - 6 Mar 2020,Started learning visualization in ,,Null,0,2
+1235841646429745153,shota,1197588584624033792,12:16 AM - 6 Mar 2020,Null,,Null,6,47
+1235837594522357760,Davor Jordacevic,1315363538,12:00 AM - 6 Mar 2020,How To Build A Shallow Neural Network in ,http://ow.ly/kHuz50yEftv,Null,11,24
+1235603146552094720,devsmood,998859533853315073,8:28 AM - 5 Mar 2020,We just are  and what happens just happens. ,,Null,3,5
+1235475439692296192,Dr. Rajeev Bukralia,1976317832,12:01 AM - 5 Mar 2020,Complete Guide to Data Visualization with Python ,http://ow.ly/QHHt30qm1Rq,Null,2,3
+1235474728040534018,Learn to Code,844736432115736576,11:58 PM - 4 Mar 2020,MATLAB vs Python: Why and How to Make the Switch  ☞ ,https://ift.tt/2URzcnS,Null,0,3
+1235472141623033856,Jan Giacomelli,1222428668011655170,11:48 PM - 4 Mar 2020,Null,https://typless.com/2020/02/28/continuously-learning-ai/,Null,22,28
+1235460088632143872,Davor Jordacevic,1315363538,11:00 PM - 4 Mar 2020,Why THE CONCEPTS BEHIND HARRIS CORNER DETECTION Succeeds   Find out more: ,http://datahacker.rs/harris-corner-detector-part1/,Null,6,9
+1235459176375017472,Sy,238098830,10:56 PM - 4 Mar 2020,Check out this ,https://realpython.com/testing-third-party-apis-with-mocks/,Null,6,37
+1235442546697891841,Guy Ballard,1016613097,9:50 PM - 4 Mar 2020,This ,,Null,15,119
+1235181205211033600,Gal Giacomelli,410955347,4:32 AM - 4 Mar 2020,How to be a Productive 9-to-5 Programmer. by ,https://buff.ly/39k0mtD,Null,27,26
+1234861305850449927,Ishaan Sheikh,812596346876293120,7:20 AM - 3 Mar 2020,Returning multiple values from a function in ,,Null,41,58
+1238718083197480960,Python Tutorials,733599640294064132,11:46 PM - 13 Mar 2020,How to Use .loc[] to filter DataFrames in Pandas  ☞ ,http://bit.ly/2W4c0VM,Null,0,0
+1238715508679012353,codetalks.tv,1081155181473980417,11:36 PM - 13 Mar 2020,Null,https://codetalks.tv/talk/djangocon-us-2018-serverless-django-with-zappa-by-dane-hillard-zfynwm4-jfe,Null,1,0
+1238713864524423168,codetalks.tv,1081155181473980417,11:29 PM - 13 Mar 2020,Null,https://codetalks.tv/talk/djangocon-us-2018-anatomy-of-open-edx-a-modern-online-learning-platforms-by-nate-aune-7bbvxn4o-ue,Null,0,0
+1238712768758452225,TechZ,737658006993674241,11:25 PM - 13 Mar 2020,Introduction to Strings in Python  ☞ ,http://bit.ly/2VjFFYU,Null,0,0
+1238709625488171008,codetalks.tv,1081155181473980417,11:12 PM - 13 Mar 2020,Null,https://codetalks.tv/talk/djangocon-us-2018-orm-the-sequel-by-katie-mclaughlin-p9bgr5voiso,Null,0,0
+1238706441919385601,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,11:00 PM - 13 Mar 2020,String is a built in Data Type in Python  String is immutable by the way  ,,Null,0,0
+1238694576929398784,ASCOL IT Club,1209826668795138048,10:12 PM - 13 Mar 2020,We would like to announce Python for Everyone #101; a 3-day workshop helping tech students to get started with Python by building projects. The workshop is supported by Department of CSIT  ,,Null,3,2
+1238690191910604800,RemoteBox,1007109797483876352,9:55 PM - 13 Mar 2020,Null,https://remotebox.io/job/3368617,Null,0,0
+1238661138822422535,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,8:00 PM - 13 Mar 2020,Create a date object    ,,Null,0,0
+1238651370904961025,Learn Python,829899435991822337,7:21 PM - 13 Mar 2020,Generating Dashboards using Python Dash Framework ,https://ift.tt/2QggEfE https://ift.tt/2xCHMPI,Null,0,0
+1238646044424048640,Fullstack Developer,931055758971752448,7:00 PM - 13 Mar 2020,Class vs Object vs Instance ,https://www.codementor.io/stevedonovan/class-vs-object-vs-instance-14i2s2lu6r,Null,1,5
+1238632245402808321,HORIZONium,1224839019265060867,6:05 PM - 13 Mar 2020,Null,http://youtube.com/channel/UCqrIL,Null,0,0
+1238626199334764545,Lewis Gavin,80817617,5:41 PM - 13 Mar 2020,WSL2 will be generally available in Windows 10  version 2004 | Windows Command Line ,https://devblogs.microsoft.com/commandline/wsl2-will-be-generally-available-in-windows-10-version-2004/?WT.mc_id=reddit-social-marouill,Null,4,6
+1238625946573459456,Python Online,739018813560102912,5:40 PM - 13 Mar 2020,Context Managers in Python   ☞ ,http://bit.ly/2THcVKn,Null,1,4
+1238618555689717760,Terry Watson,1202977747364204545,5:10 PM - 13 Mar 2020,Python for Data Science and AI ,http://bit.ly/3cWY0Dp,Null,2,4
+1238610774534258689,⚡Electrila⚡,1211623817522507776,4:39 PM - 13 Mar 2020,Null,https://github.com/Electrila/100-days-of-code/blob/master/log-v2.md,Null,10,7
+1238600743428460553,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,4:00 PM - 13 Mar 2020,find 3 largest/smallest elements in a list    ,,Null,0,1
+1238589677155819521,Python is life,1120693467477188608,3:16 PM - 13 Mar 2020,Machine Learning and Data Science Hands-on with Python and R  ☞ ,https://ift.tt/34ptrkk,Null,2,1
+1238575364139560970,Python Arcade Library,1185245430508130304,2:19 PM - 13 Mar 2020,Learn to draw with ,https://youtu.be/wYofTQaIIlQ https://www.youtube.com/watch?v=wYofTQaIIlQ,Null,0,4
+1238514201217433602,Renan Moura,1156744554663600128,10:16 AM - 13 Mar 2020,join(): join items of an iterable into one string in ,,Null,12,18
+1238508510289121280,bennyBoy_JP,1727994228,9:53 AM - 13 Mar 2020,Null,,Null,4,8
+1238495033814286336,Microsoft Imagine Cup,41012588,9:00 AM - 13 Mar 2020,Null,,Null,18,45
+1238349516761260032,Sylvie,1230972916973522944,11:21 PM - 12 Mar 2020,Day 20: Today I learned the zip function  and learned how to use filter  map and list comprehensions with zip to get specific objects from 2 separate lists. It was very interesting and I like it but I think I need a bit more practice. ,,Null,2,18
+1238235228407291905,Jorge Eldis,174651067,3:47 PM - 12 Mar 2020,Check out this ,https://realpython.com/asynchronous-tasks-with-django-and-celery/,Null,4,9
+1238217649600987136,Gallego Lab,809813079013920768,2:37 PM - 12 Mar 2020,We changed pipettes by computers! We didn't plan working from home... but this is a fantastic opportunity to strengthen our computational power. We'll be back in a few weeks  and we'll be better in  ,,Null,7,155
+1238210571046203392,Junior Gantin,1168764019274067969,2:09 PM - 12 Mar 2020,Wouldn't it be great if you could just display your ,https://docs.masoniteproject.com/advanced/validation#message-bag,Null,13,9
+1238154159725166592,Python Tutorials,733599640294064132,10:25 AM - 12 Mar 2020,How to write a custom Python logging handler  ☞ ,http://bit.ly/2IFviZR,Null,4,9
+1238114176121425923,Renan Moura,1156744554663600128,7:46 AM - 12 Mar 2020,endswith(): check if a string ends with a certain value in ,,Null,2,5
+1238042045115174912,Hive BioLab,1107310211277180929,2:59 AM - 12 Mar 2020,It's another ,,Null,8,19
+1237949820339400704,Ozgur Yilmaz,2409518119,8:53 PM - 11 Mar 2020,Check out this ,https://realpython.com/pandas-read-write-files/,Null,6,26
+1237880993849044992,Hudson & Thames,1156154463872278528,4:20 PM - 11 Mar 2020,Just released mlfinlab 0.6.0  now including Backtest statistics.  ,https://github.com/hudson-and-thames/mlfinlab https://mlfinlab.readthedocs.io/en/latest/implementations/backtest_statistics.html,Null,7,23
+1237749855046504448,Renan Moura,1156744554663600128,7:38 AM - 11 Mar 2020,isupper(): checking upper case only in a string in ,https://renanmf.com/isupper-checking-upper-case-only-string-python/,Null,2,6
+1237559458441515008,Python Developer,743780794997547008,7:02 PM - 10 Mar 2020,How to Create a Chrome Plugin using Python ,https://morioh.com/p/0e3b33fe9851,Null,7,10
+1237482157158862849,Python Programmers,3314148722,1:55 PM - 10 Mar 2020,How to Build and Install OpenCV from Source  ☞ ,http://bit.ly/38cPhtf,Null,8,18
+1237441688366469120,A State Of Data,1176842422531346432,11:14 AM - 10 Mar 2020,Null,,Null,2,2
+1237359281898479618,Dawid,69544990,5:46 AM - 10 Mar 2020,History of programming languages :O  ,,Null,158,253
+1237284303161233409,David Gossage,50616557,12:49 AM - 10 Mar 2020,Just created my 1st ever ,https://www.dgossage.co.uk/using-python-to-find-internal-linking-opportunities/,Null,10,43
+1237182635358781440,✨ Trey Hunner 🐍,2326251343,6:05 PM - 9 Mar 2020,The default string delimiter for splitting in ,,Null,29,132
+1237038028540919815,Bokeh Visualization Library,521448718,8:30 AM - 9 Mar 2020,Bokeh 2.0 is released! Read all about it on our new ,https://medium.com/@bokeh/announcing-bokeh-2-0-647042d0d977,Null,98,227
+1238499466996482049,Hugo Bowne-Anderson,1092509048,9:17 AM - 13 Mar 2020,If you’ve ever used ,https://twitter.com/pycon/status/1238180193258352641,Null,19,36
+1238477307246870528,bluefox creation,986644817307353088,7:49 AM - 13 Mar 2020,A little test sequence of fibonacci and formula effector node ,,Null,11,166
+1238472440558354434,Olubanwo Ayomide,763782376296177664,7:30 AM - 13 Mar 2020,Who says a journey started don't have an ending?  This is the semi-final stage of the Python/Machine learning training that kick started 5 weeks ago by ,,Null,0,2
+1238165112130686976,bennyBoy_JP,1727994228,11:09 AM - 12 Mar 2020,Null,,Null,3,11
+1238113469636972551,Patricia💡,1141410142937911296,7:43 AM - 12 Mar 2020,Null,https://realpython.com/pandas-read-write-files/,Null,2,11
+1238003217314783232,Dave Whipp,409005671,12:25 AM - 12 Mar 2020,For any ,,Null,23,36
+1237854506517286912,Peter J. DePasquale, Ph.D.,53128349,2:34 PM - 11 Mar 2020,My ,,Null,0,3
+1237804554416271361,Kevin Markham,124797824,11:16 AM - 11 Mar 2020,Do you remember my daily pandas tricks? ,,Null,59,466
+1237698569483751425,Zooba,7202792,4:15 AM - 11 Mar 2020,Null,,Null,39,148
+1237506043300569088,Raja Murugan,1234838528040660992,3:30 PM - 10 Mar 2020,Null,,Null,0,0
+1237451909776187392,✨ Trey Hunner 🐍,2326251343,11:55 AM - 10 Mar 2020,Wish your dataclasses were iterable just like namedtuples? You need a __iter__ method! ,,Null,7,58
+1237425720135225344,Living Art Reptiles,616928352,10:10 AM - 10 Mar 2020,So nice! :-) Green Tree Python (Morelia Viridis). Photo: Gareth Chondro Hudson. ,,Null,0,7
+1237420752598695936,Paolo Tamagnini,426045898,9:51 AM - 10 Mar 2020,Amazing work on integrating ,https://lnkd.in/e-HHcQa https://lnkd.in/eqWdK3Y https://linkedin.com/posts/paolo-tamagnini_r-knime-timeseries-activity-6642810604618858496-kl0H,Null,11,14
+1237198329412493317,Python Developer,829634240253927425,7:07 PM - 9 Mar 2020,How to Install TensorFlow and Recognize images using Raspberry Pi ,https://ift.tt/39EK7rn https://ift.tt/38Cjmmb,Null,9,4
+1237047831145451520,Mike Driscoll,19067150,9:09 AM - 9 Mar 2020,I am doing a complete rewrite of my first book  Python 101. If you're interested in checking out  you can do so here:  ,https://www.kickstarter.com/projects/driscollis/python-101-2nd-edition/,Null,17,71
+1236920457166639105,Avishek Patra,3732965112,12:43 AM - 9 Mar 2020,Today is the festival of colors in India. So ,,Null,12,10
+1236389147302080512,Ozgur Yilmaz,2409518119,12:31 PM - 7 Mar 2020,Check out this ,https://realpython.com/numpy-scipy-pandas-correlation-python/,Null,17,38
+1236346744562016256,Ishaan Sheikh,812596346876293120,9:43 AM - 7 Mar 2020,How to Reverse a list in ,,Null,5,4
+1236338574880124931,Renan Moura,1156744554663600128,9:11 AM - 7 Mar 2020,isidentifier(): checking a valid identifier in ,https://renanmf.com/isidentifier-checking-valid-identifier-python/,Null,7,5
+1236326566323314688,Alexandre de Siqueira,1223346083914371072,8:23 AM - 7 Mar 2020,Check the best ,https://github.com/inducer/pudb,Null,6,5
+1238362010686980096,Python Programmers,3314148722,12:11 AM - 13 Mar 2020,How to build HANGMAN with Python  ☞ ,http://bit.ly/2U1Fl0m,Null,7,26
+1238285420686966784,Kris hobbs,1383590858,7:07 PM - 12 Mar 2020,Day 40: ,https://talkpython.fm/100days?s=pybites,Null,9,5
+1238226677991432193,Gcello IoT,3369696333,3:13 PM - 12 Mar 2020,Sweet and easy:) ,,Null,1,2
+1238178069774503936,Python Weekly,373620985,12:00 PM - 12 Mar 2020,CircleD - Software that can both auto or manually detect circles/spherical objects in images and provides the diameter distribution (D10  D50  D90). ,https://buff.ly/2wBcsQN,Null,6,12
+1238030666551435264,Philippe Maegerman,95178196,2:14 AM - 12 Mar 2020,I start to dig Blender scripting  you can do complex stuff in a few lines of code  python is really easy to learn. Here some fibonacci metaballs ;) ,,Null,6,62
+1237845841999572995,Real Python,745911914,2:00 PM - 11 Mar 2020,Applications of Signal Processing in Machine Learning ,https://www.womenwhocode.com/blog/applications-of-signal-processing-in-machine-learning,Null,14,40
+1237433251498618880,Rohit Singh,945193638597861377,10:40 AM - 10 Mar 2020,Null,,Null,3,10
+1237415804855103490,etorreborre,14622451,9:31 AM - 10 Mar 2020,Working for a bit with ,,Null,4,22
+1237388788080316416,Tawanda☕💻,2967455656,7:44 AM - 10 Mar 2020,She can do anything with python  she is a python developer  ,,Null,26,28
+1236779341058576385,Aleksy Herominski,957652583690260486,3:22 PM - 8 Mar 2020,Another wavy boi ,,Null,0,0
+1236747651993030658,Aleksy Herominski,957652583690260486,1:16 PM - 8 Mar 2020,Final comparison  the shape  now rotated 20 times resembling a mandala. Compared 5 years ago (,,Null,0,0
+1236664057706528769,WWCodePython,1097627506633592833,7:44 AM - 8 Mar 2020,Your strength  determination  care and selfless spirit!  Happy International Women Day!   ,,Null,35,85
+1236645363798376448,Fullstack Developer,931055758971752448,6:30 AM - 8 Mar 2020,Retrieve User Information in Spring Security ,https://www.codementor.io/sravancynixit/retrieve-user-information-in-spring-security-14arwu8ub0,Null,18,18
+1236502030740606976,Steven Jordan🐍👨🏻‍💻,759386987866578944,8:00 PM - 7 Mar 2020,R1D3 ,,Null,10,10
+1236352524556394498,Python is life,1120693467477188608,10:06 AM - 7 Mar 2020,Scrapy with Python  ☞ ,https://ift.tt/2IQ5Wt1,Null,2,3
+1236350503249944578,Lindsey Clark,879087454418030592,9:58 AM - 7 Mar 2020,We are getting back to the tavern to celebrate new commands! ,,Null,3,6
+1236289678858428416,Daniel Müller-Komorowska,869980503683813390,5:56 AM - 7 Mar 2020,I finally built the master branch of ,,Null,2,7
+1236224705939587072,P h i l s,1212139641110876160,1:38 AM - 7 Mar 2020,Day 3 on Python programming Learnt about the 'if' and  'else' statement The 'if' statement only works if the condition is true ,,Null,20,19
+1236224333263122432,Will McGugan,14343311,1:37 AM - 7 Mar 2020,So I just wrote this bit of ,,Null,2,10
+1236142776024215552,Christopher Doyle,73039079,8:12 PM - 6 Mar 2020,The History of Top Programming Languages from 1965 to 2019! ,,Null,379,562
+1238201674964992003,Mosfiqun Nahid,3266942546,1:34 PM - 12 Mar 2020,What would be the result !   ,,Null,0,0
+1237900734454050818,AI Apparel,1031252619992264704,5:38 PM - 11 Mar 2020,Word(s) of the day: Artificial Intelligence. Check out our apparel!! ,,Null,3,2
+1237833018150129666,Jan Giacomelli,1222428668011655170,1:09 PM - 11 Mar 2020,I've learned in last week: ,,Null,9,20
+1237564454801301508,Python Fan,829638539423969282,7:22 PM - 10 Mar 2020,How to Create a Chrome Plugin using Python ☞ ,https://ift.tt/3cRG3X0 https://ift.tt/3aH4zYT,Null,0,2
+1237422473311916034,Renan Moura,1156744554663600128,9:58 AM - 10 Mar 2020,capitalize(): first character only to upper case in a string in ,https://renanmf.com/capitalize-first-character-only-to-upper-case-string-python/,Null,3,2
+1237377682507272196,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,7:00 AM - 10 Mar 2020,pandas_merge with inner join    ,,Null,2,5
+1237117902488305664,Daily Python Tip,827002120373207040,1:47 PM - 9 Mar 2020,>>> numbers = ['9'  '44'  '8'  '222'] >>> max(numbers) '9' >>> max(numbers  key=int) '222' ,,Null,21,122
+1237063224782196737,IxiaRomania,1171378348704108547,10:10 AM - 9 Mar 2020,Name one thing you can't do in ,,Null,0,2
+1237058516504006656,Aleksy Herominski,957652583690260486,9:51 AM - 9 Mar 2020,A white and red coloured ,,Null,0,2
+1236907608184893440,Python Fan,829638539423969282,11:52 PM - 8 Mar 2020,How to Track Real-time Bitcoin price using Python ,https://ift.tt/2W2NHrz https://ift.tt/3aIvQKf,Null,0,1
+1236710052246896642,Nishit Mohanan,133228873,10:47 AM - 8 Mar 2020,Day 52: - Started work on my clipboard ,,Null,4,6
+1236316692076277760,Learn Python,920134629465772037,7:44 AM - 7 Mar 2020,Beautiful Soup Tutorial - Web Scraping in Python  ☞ ,http://bit.ly/2TqznG8,Null,4,4
+1236286486900887552,Simple Source,64125150,5:44 AM - 7 Mar 2020,Writing an API in Flask with SQLAlchemy is easy with the correct setup. Flask takes care of the server and routing while SQLAlchemy handles the database. ,https://buff.ly/38rmp0j,Null,4,2
+1236141255123324934,Python,737913022006579200,8:06 PM - 6 Mar 2020,The Ultimate Guide to Python Turtle ☞ ,https://codequs.com/p/BJyP8ceSI,Null,6,10
+1236089235083612161,yhobby,704502512,4:40 PM - 6 Mar 2020,Day 54: ,https://talkpython.fm/100days?s=pybites,Null,3,9
+1236086719927250953,🐙VARREN.KHAN,758873121851965440,4:30 PM - 6 Mar 2020,Hey  if you are in need of source control Check Out GitKraken!! ,https://ift.tt/2X5p1jS,Null,13,6
+1236053239344312320,Python Fan,739015205305257984,2:17 PM - 6 Mar 2020,6 Python Tips and Tricks YOU Should Know  ☞ ,http://bit.ly/32R1env,Null,13,9
+1236042016133349376,Casual Accountant,1136538442505117698,1:32 PM - 6 Mar 2020,Day 30 of ,,Null,16,22
+1236039617222230017,Bernard Tyers,15747530,1:23 PM - 6 Mar 2020,Please RT!  Are you a Python user? Do you use pip  the package management tool?  Do you want to help improve the usability of pip?  If so   sign-up to the pip UX studies!  All the details are here:  ,https://bit.ly/pip-ux-studies,Null,191,155
+1235907389414690816,traveladventureyacht,580775606,4:37 AM - 6 Mar 2020,Check out this ,https://realpython.com/python-data-cleaning-numpy-pandas/,Null,18,39
+1237538712105320448,sfpythonmeetup,2359649545,5:39 PM - 10 Mar 2020,SF Python is going virtual for 3/11's meetup ,https://ti.to/sf-python/becoming-a-better-python-dev,Null,15,18
+1237477312590905349,Marco Visibelli,257563582,1:35 PM - 10 Mar 2020,Unbelievable   my R0 model  was able to predict the EXACT number of today cases of coronavirus (original post from yesterday is here: ,https://lnkd.in/gsVF3hv,Null,0,5
+1237389306060091395,Ahmad Mustafa Anis,1031198302279290880,7:46 AM - 10 Mar 2020,Successfully cleared the Python Exam(MTA 98-381) by ,,Null,0,11
+1237331619050127360,Hugo de Vos,1026921204,3:57 AM - 10 Mar 2020,pyperclip is a useful ,,Null,0,2
+1236951431334309888,Python Develop,733595578416795649,2:46 AM - 9 Mar 2020,Advanced Sorting in Python Using Lambdas and Custom Functions  ☞ ,https://ift.tt/37Ylkgx,Null,2,5
+1236646349916930048,🐍 DS posts you might have missed!,1215334356367171585,6:34 AM - 8 Mar 2020,Null,https://github.com/pandas-profiling https://github.com/pandas-profiling/pandas-profiling,Null,0,3
+1236359531304714240,Jeff Ali,2604886657,10:34 AM - 7 Mar 2020,Day 51/100 : I'm planning to rewrite whole custom hotkeys project again. ,,Null,10,9
+1236350918632902661,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,10:00 AM - 7 Mar 2020,pandas_Series vs 1-column DataFrame    ,,Null,2,3
+1236305615938560000,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,7:00 AM - 7 Mar 2020,Display the current date    ,,Null,3,2
+1236254815254085632,Python Online,739018813560102912,3:38 AM - 7 Mar 2020,Could Nim Replace Python?  ☞ ,https://ift.tt/2wEJLCD,Null,4,0
+1235907124909273088,StormDevelopers,1091413073406148609,4:36 AM - 6 Mar 2020,Becoming a ,https://stormdevelopers.com/forums/topic/65-becoming-a-python-developer/,Null,15,15
+1235874363166961664,Apponix Technologies,4442297472,2:26 AM - 6 Mar 2020,Null,,Null,0,0
+1235820687828193280,SADLM,781104993512267776,10:53 PM - 5 Mar 2020,How it feels when my ,,Null,2,13
+1235649760272330752,Raja Murugan,1234838528040660992,11:33 AM - 5 Mar 2020,Dear Members   We need Python Developers Immediately. Any clarifications   reach my E-Mail - rajamurugan@innovalus.com ,,Null,0,0
+1235638133854810113,gerhard koenderink,289383673,10:47 AM - 5 Mar 2020,Recent code doodle  running real-time 60fps ,,Null,32,134
+1235631793182666752,Ivy Barley,104582823,10:22 AM - 5 Mar 2020,Null,,Null,10,97
+1235605842772119553,Amirali,1212823544356204546,8:39 AM - 5 Mar 2020,Front end ,,Null,0,2
+1235603146552094720,devsmood,998859533853315073,8:28 AM - 5 Mar 2020,We just are  and what happens just happens. ,,Null,3,5
+1235600782747226114,Pablo Medina,2203748154,8:19 AM - 5 Mar 2020,FELLOW DESIGN NERDS: I'll be hosting our first "Drawbot Monthly" at the Commons Café in Brooklyn. This is a monthly show and tell meetup for people interested in ,,Null,12,36
+1235555587175440387,mike,297626814,5:19 AM - 5 Mar 2020,It is extracting ,,Null,1,0
+1236909597300064257,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,12:00 AM - 9 Mar 2020,sample selection    ,,Null,1,3
+1236694572387962881,ola_charles,460560697,9:45 AM - 8 Mar 2020,Friends  the night is almost here again. We've shared the vision and now we're ready to run with it.  We will be exploring ,,Null,11,28
+1236683328205406208,The Programmers,1191070571020210177,9:00 AM - 8 Mar 2020,It's a win!,,Null,12,10
+1236521112185581568,Python Develop,733595578416795649,9:16 PM - 7 Mar 2020,Python Pandas Tutorial (Part 6): Add/Remove Rows and Columns From DataFrames  ☞ ,http://bit.ly/2IavLD4,Null,3,13
+1236447809114603526,AI Apparel,1031252619992264704,4:25 PM - 7 Mar 2020,Word(s) of the day: Artificial Intelligence. Check out our apparel!! ,,Null,1,3
+1236426828287541249,Diallo Lamarana,4038323429,3:01 PM - 7 Mar 2020,Random walk with ,,Null,6,10
+1236383200873713668,Jenna Solis,958828250997973003,12:08 PM - 7 Mar 2020,I'm quitting my life and building robots! Slouching Towards Skynet: Building a Robotic Car With Python and Raspberry Pi!  ,,Null,3,5
+1236326630605221888,bennyBoy_JP,1727994228,8:23 AM - 7 Mar 2020,Null,,Null,12,19
+1236317202795638787,Python Develop,733595578416795649,7:46 AM - 7 Mar 2020,TensorFlow Tutorial For Beginners - TensorFlow Full Course  ☞ ,http://bit.ly/2TcXUj1,Null,7,11
+1236310586343870465,bluefox creation,986644817307353088,7:19 AM - 7 Mar 2020,Coding exercise #2 Tracer node,,Null,25,143
+1236300218632556544,Deepanshu Sarawagi,124657422,6:38 AM - 7 Mar 2020,Round 2 Day 2/301 Continued learning Object Oriented Programming. Got to know about getters  setters and decorators. Worked on few examples and then moved on to next topic; inheritance.  ,https://github.com/DeepanshuSarawagi/python/tree/master/ObjectOrientedProgramming/Game,Null,5,4
+1236293016534515712,Financial Modeling Prep,938050234864816128,6:09 AM - 7 Mar 2020,Null,https://financialmodelingprep.com/developer/docs/ https://codingandfun.com/bollinger-bands-pyt/,Null,2,6
+1236290518767882241,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,6:00 AM - 7 Mar 2020,Function input()  allow user input  ,,Null,3,2
+1236111285080604673,R & Py Tips,2505271093,6:07 PM - 6 Mar 2020,Python Tip (Pandas): Does df.apply() take very long to execute and tired of interrupting the kernel?  Use `pandarallel` to parallelize your pandas tasks and watch the code run with cool progress bars.  ,https://github.com/nalepae/pandarallel,Null,26,53
+1236064123483389953,Ali Younes,411738365,3:00 PM - 6 Mar 2020,Started learning visualization in ,,Null,0,2
+1235901154309165056,Amunategui - ViralML.com,17366048,4:12 AM - 6 Mar 2020,Track  Map  and Animate the Coronavirus with Python & Basemap  ,https://youtu.be/dprg38SSqJc,Null,6,7
+1235875887213658114,Mark Sellors 🐠,14351134,2:32 AM - 6 Mar 2020,PSA: Remeber  you're not allowed to call Shiny  "RShiny"  unless you also call Django  "PythonDjango". It's the law  sorry  nothing to do with me! ,,Null,7,50
+1235837594522357760,Davor Jordacevic,1315363538,12:00 AM - 6 Mar 2020,How To Build A Shallow Neural Network in ,http://ow.ly/kHuz50yEftv,Null,11,24
+1235537427940458497,TestDriven.io,937888350974787584,4:07 AM - 5 Mar 2020,Deploying a Flask and Vue App to Heroku with Docker and Gitlab CI   ,https://testdriven.io/blog/deploying-flask-to-heroku-with-docker-and-gitlab/#.XmDql1KTBiE.twitter,Null,24,58
+1235531751054667777,sammywemmy,1093585131351101441,3:44 AM - 5 Mar 2020,inspired by ,,Null,9,40
+1236381115285463042,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,12:00 PM - 7 Mar 2020,remove duplicate rows in dataframe    ,,Null,2,3
+1236356780239646721,Chris Strange,988508801371328513,10:23 AM - 7 Mar 2020,Null,https://blog.miguelgrinberg.com/post/micropython-and-the-internet-of-things-part-i-welcome,Null,6,6
+1236324785594019840,Python Planet,737930060968165377,8:16 AM - 7 Mar 2020,TensorFlow Tutorial For Beginners - TensorFlow Full Course  ☞ ,http://bit.ly/2TcXUj1,Null,3,4
+1236314505531076610,Python Machine Learning,908264228192002048,7:35 AM - 7 Mar 2020,Ensemble Machine Learning in Python: Random Forest  AdaBoost  ☞ ,https://ift.tt/30slh9p,Null,5,0
+1236284176891957251,bluefox creation,986644817307353088,5:34 AM - 7 Mar 2020,Tried to code a custom sine wave node in Animation nodes,,Null,15,174
+1236275425879474176,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,5:00 AM - 7 Mar 2020,Finally!    ,,Null,3,1
+1236231254665842688,Nouroz Gaming,1142886227756093440,2:04 AM - 7 Mar 2020,Why would a Python programmer learn Rust when there are no jobs in it  ☞ ,http://bit.ly/3c4vbEH,Null,2,3
+1236108363223707649,TechZ,737658006993674241,5:56 PM - 6 Mar 2020,A beginner’s guide to Spark in Python  ☞ ,http://bit.ly/2okLgli,Null,0,0
+1236086563630723073,inputforcolor,634414519,4:29 PM - 6 Mar 2020,Urgently Required ,,Null,0,0
+1235988530528169984,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,10:00 AM - 6 Mar 2020,create line chart using Bokeh    ,,Null,0,3
+1235941832141438976,David Neal 🥓🥑,16684753,6:54 AM - 6 Mar 2020,Blogged: Stop Writing Server-Based Web Apps ,https://developer.okta.com/blog/2020/03/06/stop-writing-server-based-web-apps,Null,10,20
+1235928130818367490,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,6:00 AM - 6 Mar 2020,pandas_join two dataframes along columns    ,,Null,0,2
+1235923823158910976,Exequiel Ceasar Navarrete 🙏☝️☀️🌻🇵🇭,340222559,5:42 AM - 6 Mar 2020,Currently looking for remote work opportunities with flexible working hours. I work mainly in ,https://www.linkedin.com/in/exequiel-ceasar-navarrete/ https://twitter.com/ecsnavarrete/status/1222654896135999490,Null,8,6
+1235867645011881985,Python,737913022006579200,1:59 AM - 6 Mar 2020,Beginner’s Guide to Machine Learning with Python ☞ ,https://morioh.com/p/7b51f7566a95,Null,7,3
+1235862571330093057,SSLABS,998480620140417024,1:39 AM - 6 Mar 2020,Python  New Batch On March-9 @ 08:00 Am ,https://sslabs.co.in/python-training-hyderabad/,Null,0,0
+1235795361840721920,Python & Django,733580286844248064,9:12 PM - 5 Mar 2020,Intro to Web Scraping with Python and Beautiful Soup  ☞ ,http://bit.ly/2PDNGGy,Null,5,20
+1235656233539026944,Paul Ganssle,3237100694,11:59 AM - 5 Mar 2020,I'm really excited about PEP 614  because now I no longer have to use "=" like some sort of a chump. From now on I'll be defining my variables like this:  @(type(lambda: None).__call__) def my_var():     return 3  ,,Null,24,108
+1235442546697891841,Guy Ballard,1016613097,9:50 PM - 4 Mar 2020,This ,,Null,15,119
+1235387051932971009,Hakin9,22007324,6:10 PM - 4 Mar 2020,Python WiFi Scanner Coding - video tutorial is available to watch! Check our blog for more practical content ,https://hakin9.org/python-wifi-scanner-coding-free-course-content/,Null,101,187
+1235276974395928576,Johnny Matthews,14637662,10:52 AM - 4 Mar 2020,A ,https://github.com/johnnygizmo/set_viewport_color,Null,17,65
+1236230123508072448,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,2:00 AM - 7 Mar 2020,Remember?    ,,Null,2,1
+1236152903787831296,Python Programmers,3314148722,8:53 PM - 6 Mar 2020,Python Pandas Tutorial (Part 8): Grouping and Aggregating - Analyzing and Exploring Your Data  ☞ ,http://bit.ly/2TfMrPT,Null,10,21
+1236141997561245697,Data Flair,2897266280,8:09 PM - 6 Mar 2020,Explore the 90+ free Machine Learning Tutorial Series and learn ML from Scratch from beginners to advanced.  ,https://data-flair.training/blogs/machine-learning-tutorials-home/,Null,11,2
+1236139524796878849,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,8:00 PM - 6 Mar 2020,format datetime    ,,Null,0,0
+1235986091976601600,Simon,1034019750249201664,9:50 AM - 6 Mar 2020,Quick update on Boolean tool in ,,Null,21,187
+1235958935955419136,SST System Soft Technologies,827579373750456320,8:02 AM - 6 Mar 2020,10 skills you'll need to survive the rise of automation ,https://hubs.ly/H0npcGj0,Null,9,6
+1235889209254150144,mischievousdev,1235753645141970944,3:25 AM - 6 Mar 2020,Gitbot  A github bot which shows the statistics of a user  repo  organization  commit  issue in github and also has fun commands.  Invite link : ,https://discordapp.com/oauth2/authorize?client_id=681340587420811345&permissions=384064&scope=bot,Null,0,0
+1235841646429745153,shota,1197588584624033792,12:16 AM - 6 Mar 2020,Null,,Null,13,47
+1235788991791841280,Python Fan,739015205305257984,8:47 PM - 5 Mar 2020,Intro to Web Scraping with Python and Beautiful Soup  ☞ ,http://bit.ly/2PDNGGy,Null,4,2
+1235750002309332992,Python & Django,733580286844248064,6:12 PM - 5 Mar 2020,Beautiful Soup Tutorial - Web Scraping in Python  ☞ ,http://bit.ly/39h2cLZ,Null,2,14
+1235701642776977408,Practical Programming 🚀 ProgramWithUs.com,797271725629173762,3:00 PM - 5 Mar 2020,I always get this question asked "What book should I get?"    ,,Null,1,5
+1235690921460719618,Learn to Code,844736432115736576,2:17 PM - 5 Mar 2020,Machine Learning in Python - Full Course for Beginners  ☞ ,https://ift.tt/32D2gC4,Null,0,1
+1235671471868919808,PythonUSA,1230571931105202178,1:00 PM - 5 Mar 2020,Python To Web - Your Python App online ,https://pythonbasics.org/python-to-web/,Null,8,3
+1235641240877764614,Python Weekly,373620985,11:00 AM - 5 Mar 2020,face2data - Extract meaningful information from a person face in less than a second. Powered by Keras and Flask. ,https://buff.ly/38fVbK5,Null,13,19
+1235438397856067587,Dr. GP Pulipaka,4263007693,9:34 PM - 4 Mar 2020,A Comprehensive 30 Page Probability and ,http://bit.ly/2L4PWlv,Null,69,30
+1235434701520764929,Dr. GP Pulipaka,4263007693,9:19 PM - 4 Mar 2020,CNN vs. RNN vs. ANN — Analyzing 3 Types of Neural Networks. ,http://bit.ly/32VfICO,Null,33,33
+1235416907739738115,Fabrizio Bustamante,326229600,8:08 PM - 4 Mar 2020,6 Essential Data Visualization Python Libraries   By ,https://www.analyticsvidhya.com/blog/2020/03/6-data-visualization-python-libraries/?utm_source=AVTwitter&utm_medium=post&utm_campaign=5_mar_new_article,Null,29,17
+1235379609929052160,Code Geek,3237673034,5:40 PM - 4 Mar 2020,Python Data Science : Filtering and selecting data with Python ,https://morioh.com/p/a919df95853d?f=5c21fb01c16e2556b555ab32,Null,14,37
+1235285382008197120,Micro:bit Educational Foundation,763102211639537665,11:26 AM - 4 Mar 2020,Learn more about how the micro:bit works with ,https://microbit.org/get-started/user-guide/python/,Null,21,46
+1235242940391251968,Brian Okken,20831071,8:37 AM - 4 Mar 2020,Test & Code 104: Top 28 pytest plugins - Anthony Sottile  pytest is awesome by itself. pytest + plugins is even better. In this episode  ,https://testandcode.com/104,Null,23,49
+1235815483942658048,Python Course,829636994582056960,10:32 PM - 5 Mar 2020,The 5 Best IDE’s and Editors for Python ☞ ,https://ift.tt/3augE3t https://ift.tt/38sZRfM,Null,1,0
+1235788961144061952,RANE digital,906205317452746752,8:47 PM - 5 Mar 2020,Writing an API in Flask with SQLAlchemy is easy with the correct setup. Flask takes care of the server and routing while SQLAlchemy handles the database. ,https://buff.ly/38rmp0j,Null,1,2
+1235761030422302720,Learn Python,829899435991822337,6:56 PM - 5 Mar 2020,Using Python in Weather Forecasting 2 ☞ ,https://ift.tt/39w0UwE https://ift.tt/39tVTVo,Null,0,0
+1235452176085876739,shota,1197588584624033792,10:28 PM - 4 Mar 2020,Null,,Null,10,24
+1235444935429480449,Bukmedianet,1230122645527711744,10:00 PM - 4 Mar 2020,ML AI For Beginners by PhD ,https://bukmedianet.blogspot.com/2020/03/ml-ai-for-beginners-by-phd-machine.html,Null,18,14
+1235439464379539456,Python Programmers,3314148722,9:38 PM - 4 Mar 2020,Web Scraping using Python for Beginners  ☞ ,http://bit.ly/39fiiG2,Null,12,60
+1235417515909496833,João Rodrigues,3370782759,8:11 PM - 4 Mar 2020,A while back I asked for tips on what to teach on an intermediate ,https://github.com/JoaoRodrigues/sc-teaching/blob/master/intermediate-python-2020/Intermediate_Python_Workshop.md,Null,9,34
+1235415049826598913,Kirk Borne,534563976,8:01 PM - 4 Mar 2020,Null,https://amzn.to/38EqUWC,Null,22,31
+1235414763506667526,Real Python,745911914,8:00 PM - 4 Mar 2020,A Guide to the Newer Python String Format Techniques ,https://realpython.com/python-formatted-output/,Null,16,38
+1235412138409091075,Coupon Online Courses 24,1218089591061630977,7:49 PM - 4 Mar 2020,Courses Free Discount - Node with SocketIO: Build A Full Web Chat App From Scratch -> ,https://coupononlinecourses.blogspot.com/2019/08/node-with-socketio-build-full-web-chat.html,Null,26,23
+1235402887221690370,Nathan Hvnter🚀,1165026149694615553,7:12 PM - 4 Mar 2020,5 ,http://bit.ly/2I5HZNc,Null,67,11
+1235383850873675776,Arnab,3867945679,5:57 PM - 4 Mar 2020,Null,,Null,71,20
+1235368370276413442,CodeChain,907424637574823936,4:55 PM - 4 Mar 2020,Thanks ,https://rustinblockchain.org/2020/03/04/rib-newsletter-9-the-month-of-working-from-home/,Null,11,13
+1235355430471299073,Amy,3404403357,4:04 PM - 4 Mar 2020,Day 19 of ,,Null,19,35
+1235339252793257984,Kim,275570372,3:00 PM - 4 Mar 2020,I've been playing with ,https://ny-quiz.herokuapp.com/,Null,16,16
+1235239533576364032,𝙹-𝙾 𝙴𝚛𝚒𝚔𝚜𝚜𝚘𝚗,49286100,8:23 AM - 4 Mar 2020,R3 D33 of ,https://findwork.dev/blog/advanced-usage-python-requests-timeouts-retries-hooks/,Null,15,12
+1235232164981157888,Jenny 🏴󠁧󠁢󠁷󠁬󠁳󠁿,236017787,7:54 AM - 4 Mar 2020,I’m trying to parse nested ,Https://blog.serverbooter.com/post/parsing-nested-json-in-go/,Null,15,19
+1235218038078619648,bennyBoy_JP,1727994228,6:58 AM - 4 Mar 2020,Null,,Null,10,13
+1235194761021132807,Dr Chris Yeomans 🇪🇺,586818727,5:25 AM - 4 Mar 2020,Pleasure to be teaching my first ,,Null,4,25
+1234996340918063104,Tyler Loftus,1133304464171868160,4:17 PM - 3 Mar 2020,Excited to begin PhD ,,Null,8,30
