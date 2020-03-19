@@ -2,3 +2,5 @@
 .idea/
 .vscode/
 twitter/.idea/
+/**/idea/
+/**/__pycache__/
