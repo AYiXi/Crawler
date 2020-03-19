@@ -55,6 +55,7 @@ class QuerySpider(scrapy.Spider):
 
     def parse(self, response: Response):
         json_data = json.loads(response.text)
+        self.logger.warning('OK OK OK')
         cursor = re.findall('"value":"(scroll.*?)","cursorType', response.text)[0]
 
         tweets = json_data['globalObjects']['tweets']
