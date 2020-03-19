@@ -1,6 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea/
-.vscode/
-twitter/.idea/
-/**/idea/
+/**/.idea/
+/**/.vscode/
 /**/__pycache__/
