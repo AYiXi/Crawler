@@ -32,4 +32,5 @@ def start():
 
 
 if __name__ == '__main__':
-    start()
+    logger.info('111')
+    # start()
