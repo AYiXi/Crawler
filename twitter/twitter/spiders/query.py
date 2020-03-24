@@ -7,7 +7,6 @@ import scrapy
 from scrapy import Request, FormRequest
 from scrapy.http import Response
 
-
 class QuerySpider(scrapy.Spider):
     name = 'query'
     allowed_domains = ['twitter.com']
