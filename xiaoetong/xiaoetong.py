@@ -10,6 +10,8 @@ from lxml import etree
 from Crypto.Cipher import AES
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+# 参考: https://my.oschina.net/u/4638454/blog/4544631
+
 class XiaoETong:
     def __init__(self):
         # cid 和 uid 在 https://apppit6dcs05916.pc.xiaoe-tech.com/auth/get_user_info?app_id=appPit6DCs05916 中存在
