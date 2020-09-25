@@ -6,7 +6,7 @@
 
 
 
-## 使用`CrawlSpider`爬取[腾讯招聘网站](https://github.com/AYiXi/Crawl_practice/tree/master/tencent/tencent/spiders)的信息
+## 使用`CrawlSpider`爬取[腾讯招聘网站](twitter_crawl/twitter_scrapy)的信息
 > {'职位名称': '30620-腾讯社交广告流量生态平台合作运营经理（微信广告 深圳）', '工作地点': '深圳', '职位类别': '产品/项目类', '招聘人数': '1人'}
 
 > {'职位名称': 'AQ-安全责任经理（北京）', '工作地点': '北京', '职位类别': '职能类', '招聘人数': '1人'}
