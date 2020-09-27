@@ -198,7 +198,7 @@ class XiaoETong:
             key = re.findall('URI="(.*)"', encrypt[0])
             keyurl = key[0]
             keycontent = requests.get(keyurl, headers=headers).content
-            cryptor = AES.new(keycontent, AES.MODE_CBC, b'0000000000000000')
+            encrypt_template = AES.new(keycontent, AES.MODE_CBC, b'0000000000000000')
 
         try:
             for ts_url in ts_urls:
@@ -212,7 +212,7 @@ class XiaoETong:
                     # 使用解密方法解密得到的视频文件
                     for chunk in r.iter_content(chunk_size=1024 * 256):
                         if encrypt:
-                            chunk = cryptor.decrypt(chunk)
+                            chunk = encrypt_template.decrypt(chunk)
                         f.write(chunk)
             print('\n')
         except:
