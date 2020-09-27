@@ -179,7 +179,7 @@ class XiaoETong:
 
         if "#EXTM3U" not in text:
             print("这不是一个m3u8的视频链接！")
-            return False
+            return 
 
         # 得到每一个完整视频的链接地址
         ts_list = re.findall('EXTINF:(.*),\n(.*)\n#', text)
@@ -216,12 +216,14 @@ class XiaoETong:
                         f.write(chunk)
             print('\n')
         except:
+            # 出错删除文件
             path.unlink()
 
 
 if __name__ == '__main__':
     xet = XiaoETong()
     xet.start()
+    
     # xet.download_video(stream={
     #     'title'    : 'live-阶段答疑',
     #     'video_url': 'https://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/3a0469825285890805971423010/drm/v.f230.m3u8'
