@@ -5,3 +5,6 @@
 .DS_Store
 videos/
 articles/
+
+node_modules/
+package-lock.json
