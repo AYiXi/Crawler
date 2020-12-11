@@ -151,9 +151,9 @@ class XiNiuSpider(scrapy.Spider):
             })
 
     def get_sig_payload(self, payload):
-        r = requests.get(f'http://127.0.0.1:{NODE_PORT}/xiniu/payload/?e={}'.format(payload)).json()
+        r = requests.get('http://127.0.0.1:{}/xiniu/payload/?e={}'.format(NODE_PORT, payload)).json()
         return r['sig'], r['payload']
 
     def get_data(self, data):
-        r = requests.post(f'http://127.0.0.1:{NODE_PORT}/xiniu/jiemi/', data={'e': data})
+        r = requests.post('http://127.0.0.1:{}/xiniu/jiemi/'.format(NODE_PORT), data={'e': data})
         return json.loads(r.text)

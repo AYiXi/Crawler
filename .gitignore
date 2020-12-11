@@ -8,3 +8,6 @@ articles/
 
 node_modules/
 package-lock.json
+
+*.log
+*.jpg
