@@ -153,7 +153,7 @@ def crack():
     js_dict = pop_ImgLink()
     coord = parseImg("https://static.geetest.com/" + js_dict["bg"], "https://static.geetest.com/" + js_dict["fullbg"])
 
-    track = choice_track(coord-7)
+    track = choice_track(coord - 7)
     initData = js_dict
 
     userresponse, aa = get_userresponse_a(initData, track)
@@ -163,7 +163,8 @@ def crack():
     ep = Encrypter()
     params = ep.encrypted_request(initData, userresponse, passtime, aa)
     # print(params, 257)
-    return params,initData
+    return params, initData
+
 
 if __name__ == '__main__':
     print(crack())
