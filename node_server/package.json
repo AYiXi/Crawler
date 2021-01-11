@@ -4,6 +4,11 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
+    "@babel/generator": "^7.12.11",
+    "@babel/parser": "^7.12.11",
+    "@babel/traverse": "^7.12.12",
+    "@babel/types": "^7.12.12",
+    "atob": "^2.1.2",
     "express": "^4.17.1",
     "js-md5": "^0.7.3",
     "jsdom": "^16.4.0"

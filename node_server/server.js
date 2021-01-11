@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
 const url = require('url');
-const xiniu = require('./xiniudata')
+const xiniu = require('./js/xiniudata/xiniudata')
 
 app.use(express.json())
 app.use(express.urlencoded({ extended: false }))
