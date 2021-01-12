@@ -7,7 +7,7 @@ class FridaEncryptHook:
     def __init__(self, pkg_name):
         self.pkg_name = pkg_name
         self.log_file = open(pkg_name + '.log', 'w+', encoding='utf-8')
-        self.js_code = open('encrypt.js').read()
+        self.js_code = open('/Users/ayixi/Documents/Code/python/Crawler/frida-hook/ncsearch.js').read()
 
     def message(self, message, data):
         if message["type"] == 'send':
@@ -26,6 +26,9 @@ class FridaEncryptHook:
 
 
 if __name__ == "__main__":
-    pkg_name = sys.argv[1]
+    try:
+        pkg_name = sys.argv[1]
+    except:
+        pkg_name = 'com.ninemax.ncsearchnew'
     fh = FridaEncryptHook(pkg_name)
     fh.start()
