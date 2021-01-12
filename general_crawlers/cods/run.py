@@ -68,7 +68,7 @@ class Crawler:
         return urlencode(payload)
 
     def get_ip(self):
-        ip = requests.get('http://10.39.221.178:8021/getProxy?spider=zhongdengwang').json()
+        ip = requests.get('http:///10.xxxx.178:8021/getProxy?spider=zhongdengwang').json()
         assert ip['msg'] == 'success'
 
         return ip
