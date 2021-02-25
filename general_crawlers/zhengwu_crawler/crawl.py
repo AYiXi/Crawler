@@ -13,7 +13,7 @@ from lxml import etree
 from general_crawlers.zhengwu_crawler.analyze_func import date_format
 from general_crawlers.zhengwu_crawler.sites import SITES
 from loguru import logger
-from Utils.decorator_utils import time_use
+from utils.decorator_utils import time_use
 
 
 class ZWCrawl:
