@@ -13,9 +13,13 @@
 ### WEB
 - [Twitter](./scrapy_crawlers/spiders/twitter/query.py)
   - 没啥难度, 逻辑梳理
+- [天津几十个政务平台](./general_crawlers/zhengwu_crawler)
+  - 多线程爬虫
 - [烯牛数据](./scrapy_crawlers/spiders/xiniudata/xiniudata.py)
-  - js 逆向
+  - JS 逆向
 - [小鹅通](./general_crawlers/xiaoetong/xiaoetong.py)
   - 实现`视频`, `图文`, `直播`的下载
   - 下载 `m3u8` 视频示例代码
 - [猿人学 JS 逆向挑战赛](./general_crawlers/yuanrenxue)
+- [掌上高考](./node_server/js/gkcx)
+  - AES 解密, `crypto-js`
