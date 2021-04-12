@@ -12,3 +12,6 @@ package-lock.json
 *.log
 *.jpg
 test/
+
+node_server/js/encode.js
+node_server/js/decode_result.js

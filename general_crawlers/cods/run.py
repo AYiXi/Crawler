@@ -41,7 +41,6 @@ class Crawler:
         return str(a) + '.' + b
 
     def get_search_payload(self, query, page):
-        # TODO: 新增查询
         # x, y 都需要随机
         misskey = '{"sw":1053,"sh":1872,"dpi":416,"point1":{"x":%s,"y":%s},"point2":{"x":%s,"y":%s}}' % (self.get_random_xy, self.get_random_xy, self.get_random_xy, self.get_random_xy)
         json_string = '{"zczj":"","userId":"","xzqh":"","q":"腾讯","longitudeApp":"","um":"","t":"common","isDeepSearch":"false","osname":"Android+6.0.1(MuMu)","dimensionApp":"","version":"v1.4.2","jglx":"","clrq":"","currentPage":1,"misskey":"%s","channel":"common","userCookie":"%s"}' % (quote(misskey), self.get_random_uuid)

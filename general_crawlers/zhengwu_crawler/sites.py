@@ -103,7 +103,6 @@ SITES = [
         'xpath_url' : '//td[@valign="top"]/table//table[2]//tr//a[2]/@href',
     },
     {
-        # TODO: invalid
         'table_name' : '天津市虹桥区人民政府',
         'url'        : 'http://www.tjhq.gov.cn/zwgk/zfxx/gsgg/index.shtml',
         'diy_func'   : hongqiao,
