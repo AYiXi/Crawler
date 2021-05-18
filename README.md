@@ -23,3 +23,5 @@
 - [猿人学 JS 逆向挑战赛](./general_crawlers/yuanrenxue)
 - [掌上高考](./node_server/js/gkcx)
   - AES 解密, `crypto-js`
+- [微博](./general_crawlers/weibo/weibo.py)
+  - 高级搜索, 手动更换 Cookie
