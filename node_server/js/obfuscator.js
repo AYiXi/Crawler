@@ -44,7 +44,7 @@ decode_result.js 生成新js代码的路径
 
 ***********************************************************/
 
-let encode_file = "./encode.js",decode_file = "./decode_result.js";
+let encode_file = "/Users/zhihu/Documents/Code/Python/crawler-self/before.js",decode_file = "./decode_result.js";
 
 if (process.argv.length > 2)
 {
