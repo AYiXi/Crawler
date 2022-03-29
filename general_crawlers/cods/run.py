@@ -1,12 +1,14 @@
 # https://www.cods.org.cn/ APP 安卓逆向
 
+import random
+import uuid
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from hashlib import md5
+from urllib.parse import quote, urlencode
+
 import requests
 from tenacity import retry
-import uuid
-from urllib.parse import quote, urlencode
-from hashlib import md5
-import random
-from concurrent.futures import ThreadPoolExecutor, as_completed
+
 
 class Crawler:
     def __init__(self) -> None:
